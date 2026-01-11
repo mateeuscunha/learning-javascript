@@ -1,2 +1,2 @@
-# AprendendoJavaScript
-Material das aulas e exercícios do curso de JavaScript.
+# Learning JavaScript
+Material from JavaScript classes and exercises.
